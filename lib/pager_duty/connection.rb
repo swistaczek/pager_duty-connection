@@ -86,6 +86,7 @@ module PagerDuty
         end_time
         last_incident_timestamp
         last_status_change_on
+        last_status_change_at
         start
         started_at
         start_time
